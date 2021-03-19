@@ -82,3 +82,31 @@ D:\IndianSignLanguageGestureRecognition\IndianSignLanguageGestureRecognition\obj
 D:\IndianSignLanguageGestureRecognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.csproj.GenerateResource.Cache
 D:\IndianSignLanguageGestureRecognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.exe
 D:\IndianSignLanguageGestureRecognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.pdb
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IndianSignLanguageGestureRecognition.exe.config
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IndianSignLanguageGestureRecognition.exe
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IndianSignLanguageGestureRecognition.pdb
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\IKVM.Runtime.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\libsvm.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\LIBSVM.NET.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.csprojAssemblyReference.cache
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.Form1.resources
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.Properties.Resources.resources
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.csproj.GenerateResource.cache
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.csproj.CoreCompileInputs.cache
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.csproj.CopyComplete
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.exe
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\obj\Debug\IndianSignLanguageGestureRecognition.pdb
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.Math.dll
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.Imaging.xml
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.Video.xml
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.Video.DirectShow.xml
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.xml
+D:\Sign language\Sign-Language-Gesture-Recognition\IndianSignLanguageGestureRecognition\bin\Debug\AForge.Math.xml
